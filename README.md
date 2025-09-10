@@ -1,6 +1,4 @@
 # EcoCart
- 
-# EcoTrack
 
 ## Project Overview
 **EcoTrack** is a sustainable plastic waste disposal hub designed to address the growing issue of plastic pollution. By leveraging a robust tracking system and incentivizing responsible disposal practices, **EcoTrack** aims to reduce environmental degradation and promote stewardship through transparency, accountability, and innovative technology.
